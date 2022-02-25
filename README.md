@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando Java Script,Python.
+- 🌱 Estudando JavaScript,Python,Cloud,SQL.
 - 📫 Contate-me por: samylavs@hotmail.com
 - 😄 Pronouns: Ela/Dela.
 
